@@ -1,6 +1,9 @@
+![eMexo Technologies Logo](https://www.emexotechnologies.com/wp-content/uploads/2020/02/emexo-logo.png)
 # Best Automation Testing Training in Electronic City Bangalore - eMexo Technologies
 
 Welcome to the professional repository for the **Automation Testing Training in Electronic City**. Whether you are looking to start a new career or upgrade your skills, our **Automation Testing Course in Electronic City** provides the industry-standard training you need.
+
+![eMexo Technologies Banner](https://www.emexotechnologies.com/wp-content/uploads/2020/02/selenium-certification-course-850x560.jpg)
 
 ## 🚀 Why Choose eMexo Technologies?
 We are recognized as the **Best Automation Testing Training Institute in Electronic City**. Our curriculum is designed by industry experts to ensure you become a proficient SDET (Software Development Engineer in Test).
@@ -36,15 +39,19 @@ Your success is our priority. Our **Automation Testing Training and Placement in
 ## ❓ Frequently Asked Questions (FAQs)
 
 **Q: Is there a free demo available?**
+
 A: Yes! Sign up for our **Selenium WebDriver and Testing automation training in Electronic City Bangalore with free demo**.
 
 **Q: Will I get a certificate?**
+
 A: Absolutely. Upon completion, you receive an **Automation Testing Certification Course in Electronic City**.
 
 **Q: Where is the institute located?**
+
 A: We provide the best **Software Testing Training in Electronic City Phase 1**, Bangalore.
 
 **Q: Is the course budget-friendly?**
+
 A: We offer **Affordable Selenium automation testing certification training in Electronic City with live projects**.
 
 ---
